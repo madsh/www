@@ -19,4 +19,4 @@ an incomplete list of past activities
 - Scientific programmer at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
 
 
-<span align="right"><small>last update January 10, 2019</small></span>
+p>. <small>last update January 10, 2019</small>
