@@ -1,9 +1,10 @@
 <span class="h-card">
+  
 # Mads Lindegård Hjorth
 
 This is the personal homepage of <span class="p-name">Mads Lindegård Hjorth</span>. I spend most days in <span class="p-locality">Copenhagen</span> where I live with my family and make a living designing government it-solutions.
 
-The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is madsh@me.com.
+The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
 ## Currently
 Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
