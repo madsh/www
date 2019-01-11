@@ -1,4 +1,3 @@
-<span class="h-card">
   
 # Mads Lindegård Hjorth
 
@@ -21,4 +20,3 @@ an incomplete list of past activities
 
 
 <small valign="right">last update January 10, 2019</small>
-</span>
