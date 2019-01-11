@@ -11,7 +11,7 @@ Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Wri
 
 an incomplete list of past activities
 
-- Chief IT Architect at [Danish Agency for Digitisation](https://en.digst.dk/) responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, priva- cy and security assessments.
+- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, priva- cy and security assessments.
 - IT-Architect at National e-Health Authority (National Sundheds-it) writing up architectural products and laying down standards for communication across sectors.
 - Data Architect at the Danish Commerce and Companies Agency (Erhvervs- og Selskabsstyrelsen) structuring data about businesses and processes e.g. Central Business Register (Det centrale virksomhedsregister).
 - Senior Architect at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
