@@ -1,7 +1,13 @@
   
 # Mads Lindegård Hjorth
 
-This is the personal homepage of <span class="p-name">Mads Lindegård Hjorth</span>. I spend most days in <span class="p-locality">Copenhagen</span> where I live with my family and make a living designing government it-solutions.
+<div class="vcard"><span class="fn n">
+ <span class="given-name">Erin</span> 
+ <span class="additional-name">Jo</abbr>
+ <span class="family-name">Richey</span>
+</span></div>
+
+This is the personal homepage of <span class="p-name fn n"><span class="given-name">Mads</span> <span class="additional-name">Lindegård</span> <span class="family-name">Hjorth</span></span>. I spend most days in <span class="p-locality">Copenhagen</span> where I live with my family and make a living designing government it-solutions.
 
 The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
