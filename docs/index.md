@@ -1,6 +1,6 @@
 # Mads Lindegård Hjorth
 
-This is the personal homepage of Mads Lindegård Hjorth. I spend most days in Copenhagen where I live with my family and make a living design it-solutions and their governance.
+This is the personal homepage of Mads Lindegård Hjorth. I spend most days in Copenhagen where I live with my family and make a living designing government it-solutions.
 
 The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is madsh@me.com.
 
@@ -18,4 +18,4 @@ an incomplete list of past activities
 - Scientific programmer at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
 
 
-<small align="right">last update October 15, 2013, by Mads Hjorth</small>
+<small valign="right">last update October 15, 2013, by Mads Hjorth</small>
