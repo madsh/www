@@ -7,7 +7,7 @@ Her kan du finde navnene på dem jeg spiller med.
 
 |                     | Navn        | Gamertag |
 |-------              |-------------|----------|
-| ![emilhjo.png]      | Emil (ejer) | `emilhjo`|
+| ![tag](emilhjo.png) | Emil (ejer) | `emilhjo`|
 |                     | Eske        | `Eskepii`|
 |                     | Mads (far)  | `madsssh`|
 
