@@ -5,6 +5,8 @@ This is the personal homepage of <span class="p-name fn n"><span class="given-na
 
 The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
+Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren’t.
+
 ## Currently
 Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
 
