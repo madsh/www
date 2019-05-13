@@ -1,5 +1,5 @@
   
-# <span class="p-name fn n"><span class="given-name">Mads</span> <span class="additional-name">Lindegård</span> <span class="family-name">Hjorth</span></span>
+## <span class="p-name fn n"><span class="given-name">Mads</span> <span class="additional-name">Lindegård</span> <span class="family-name">Hjorth</span></span>
 
 This is my personal homepage. I spend most days in <span class="p-locality">Copenhagen</span> where I live with my family and make a living designing government it-solutions.
 
@@ -7,10 +7,10 @@ The primary function of this page is to provide a stable online presence and ser
 
 Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren’t.
 
-## Currently
+### Currently
 Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
 
-## Previously
+### Previously
 
 an incomplete list of past activities
 
