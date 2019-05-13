@@ -20,4 +20,4 @@ an incomplete list of past activities
 - Senior Architect at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
 - Scientific programmer at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
 
-<div style="text-align: right" align="right"><small>last update January 10, 2019</small></div>
+<div style="text-align: right" align="right"><small>last update May 13, 2019</small></div>
