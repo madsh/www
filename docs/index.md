@@ -1,7 +1,7 @@
   
 ## <span class="p-name fn n"><span class="given-name">Mads</span> <span class="additional-name">Lindegård</span> <span class="family-name">Hjorth</span></span>
 
-This is my personal homepage. I spend most days in <span class="p-locality">Copenhagen</span> where I live with my family and make a living designing government it-solutions.
+This is my personal homepage. I spend most days in <span class="adr"><span class="p-locality locality">Copenhagen</span></span><span class="postal-code" style="display: none">1620</span><span class="country-name" style="display: none">Denmark</span> where I live with my family and make a living designing government it-solutions.
 
 The primary function of this page is to provide a stable online presence and serve as a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
