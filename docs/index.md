@@ -25,7 +25,7 @@ an incomplete list of past activities
 
 a list of selected works with contribution
 
-- [Governance of IT Architecture in Public Health] (in danish)(https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
+- [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
 
 
 <div style="text-align: right" align="right"><small>last update May 13, 2019</small></div>
