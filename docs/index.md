@@ -14,10 +14,18 @@ Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Wri
 
 an incomplete list of past activities
 
-- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, priva- cy and security assessments.
+- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, privacy and security assessments.
 - IT-Architect at National e-Health Authority (National Sundheds-it) writing up architectural products and laying down standards for communication across sectors.
 - Data Architect at the Danish Commerce and Companies Agency (Erhvervs- og Selskabsstyrelsen) structuring data about businesses and processes e.g. Central Business Register (Det centrale virksomhedsregister).
 - Senior Architect at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
 - Scientific programmer at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
+
+
+### Public work
+
+a list of selected works with contribution
+
+- [Governance of IT Architecture in Public Health] (in danish)(https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
+
 
 <div style="text-align: right" align="right"><small>last update May 13, 2019</small></div>
