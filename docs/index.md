@@ -27,5 +27,11 @@ a list of selected works with contribution
 
 - [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
 
+- [Systematic re-examination of carriers of balanced reciprocal translocations: a strategy to search for candidate regions for common and complex diseases](https://rdcu.be/bXFKZ) co-author.
+
+- [An excess of chromosome 1 breakpoints in male infertility](https://rdcu.be/bXFLl) co-author, data-visualisation.
+
+
+
 
 <div style="text-align: right" align="right"><small>last update May 13, 2019</small></div>
