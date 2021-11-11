@@ -8,12 +8,13 @@ The primary function of this page is to provide a stable online presence and ser
 Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren’t.
 
 ### Currently
-Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
+Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). 
 
 ### Previously
 
 an incomplete list of past activities
 
+- Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
 - Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, privacy and security assessments.
 - IT-Architect at National e-Health Authority (National Sundheds-it) writing up architectural products and laying down standards for communication across sectors.
 - Data Architect at the Danish Commerce and Companies Agency (Erhvervs- og Selskabsstyrelsen) structuring data about businesses and processes e.g. Central Business Register (Det centrale virksomhedsregister).
@@ -36,4 +37,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update May 13, 2019</small></div>
+<div style="text-align: right" align="right"><small>last update November 11, 2021</small></div>
