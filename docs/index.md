@@ -26,6 +26,8 @@ an incomplete list of past activities
 
 a list of selected works with contribution
 
+- [Data-dreven – ikke dræven](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
+
 - [Fællesoffentlig referencearkitektur for deling af data og dokumenter](https://arkitektur.digst.dk/sites/default/files/20180503_rad_v1.0_-_godkendt_af_sda.pdf) editor, co-autor and modeelling.
 
 - [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
