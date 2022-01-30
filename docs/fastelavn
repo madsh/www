@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+PRODID:-//madsh.me//handheld v2022//EN
+METHOD:REQUEST
+VERSION:2.0
+BEGIN:VEVENT
+SUMMARY:Voksen-fastelavn
+DESCRIPTION: Lidt frokost, en hyggelig snak og en chance for at blive kattekonge m/k 
+LOCATION:Oddenvej 21\, Nyrup\, 4500 Nykøbing Sj
+TZID:Europe/Copenhagen
+SEQUENCE:0
+UID:6E997666-8336-4F7A-9CD1-88B611DEA7DD
+CREATED:20220130T122334Z
+DTSTART;TZID=Europe/Copenhagen:20220227T130000
+DTEND;TZID=Europe/Copenhagen:20220227T170000
+URL: https://madsh.me/invite 
+ATTENDEE;CN=Geeks and friends;CUTYPE=GROUP;RSVP=TRUE;ROLE=OPT-PARTICIPANT
+ ;EMAIL=geeks+1@ruc.dk;PARTSTAT=NEEDS-ACTION:mailto:madsh@me.com
+ORGANIZER;CN=Mads Hjorth;EMAIL=madsh@me.com
+DTSTAMP:20220130T122334Z
+END:VEVENT
+END:VCALENDAR
