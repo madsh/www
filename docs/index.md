@@ -8,12 +8,13 @@ The primary function of this page is to provide a stable online presence and ser
 Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren’t.
 
 ### Currently
-Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). 
+Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Implementing it-governance...  
 
 ### Previously
 
 an incomplete list of past activities
 
+- Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
 - Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
 - Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, privacy and security assessments.
 - IT-Architect at National e-Health Authority (National Sundheds-it) writing up architectural products and laying down standards for communication across sectors.
@@ -26,11 +27,13 @@ an incomplete list of past activities
 
 a list of selected works with contribution
 
-- [Data-dreven – ikke dræven](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
+- [Data-dreven – ikke dræven (in danish)](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
 
-- [Fællesoffentlig referencearkitektur for deling af data og dokumenter](https://arkitektur.digst.dk/sites/default/files/20180503_rad_v1.0_-_godkendt_af_sda.pdf) editor, co-autor and modeelling.
+- [Fællesoffentlig referencearkitektur for deling af data og dokumenter (in danish, english resume)](https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter) editor, co-autor and modeling.
 
 - [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
+
+- [Data modeling among non-programmers](https://www.wolframdatasummit.org/2011/attendee/presentations/Hjorth.pdf) invited speaker at Wolfram Data Summit 2011. 
 
 - [Systematic re-examination of carriers of balanced reciprocal translocations: a strategy to search for candidate regions for common and complex diseases](https://rdcu.be/bXFKZ) co-author.
 
@@ -39,4 +42,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update November 22, 2021</small></div>
+<div style="text-align: right" align="right"><small>last update March 8, 2023</small></div>
