@@ -16,7 +16,7 @@ an incomplete list of past activities
 
 - Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
 - Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
-- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for Digital Post. Concept development and business case, public consultation, privacy and security assessments.
+- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
 - IT-Architect at National e-Health Authority (now [Danish Health Data Authority](https://sundhedsdatastyrelsen.dk/da/english)) writing up architectural products and laying down standards for communication across sectors.
 - Data Architect at the Danish Commerce and Companies Agency (now [Danish Business Authority](https://erhvervsstyrelsen.dk/)) structuring data about businesses and processes e.g. [Central Business Register (CVR)](https://datacvr.virk.dk/).
 - Senior Architect at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
@@ -30,6 +30,8 @@ a list of selected works with contribution
 - [Data-dreven – ikke dræven (in danish)](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
 
 - [Fællesoffentlig referencearkitektur for deling af data og dokumenter (in danish, english resume)](https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter) editor, co-autor and modeling.
+
+- [Concept for Next generation Digital Post](./ngdp.pdf) lead architect.  
 
 - [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
 
