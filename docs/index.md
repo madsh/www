@@ -14,13 +14,19 @@ Enterprise Architect at [Danish Ministry of Integration and Immigration](https:/
 
 an incomplete list of past activities
 
-- Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
-- Chief Advisor at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
-- Chief IT Architect at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
-- IT-Architect at National e-Health Authority (now [Danish Health Data Authority](https://sundhedsdatastyrelsen.dk/da/english)) writing up architectural products and laying down standards for communication across sectors.
-- Data Architect at the Danish Commerce and Companies Agency (now [Danish Business Authority](https://erhvervsstyrelsen.dk/)) structuring data about businesses and processes e.g. [Central Business Register (CVR)](https://datacvr.virk.dk/).
-- Senior Architect at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
-- Scientific programmer at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
+__Enterprise Architect__ at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
+
+__Chief Advisor__ at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
+
+__Lead IT-Architect__ at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
+
+__IT-Architect__ at National e-Health Authority (now [Danish Health Data Authority](https://sundhedsdatastyrelsen.dk/da/english)) writing up architectural products and laying down standards for communication across sectors.
+
+__Data Architect__ at the Danish Commerce and Companies Agency (now [Danish Business Authority](https://erhvervsstyrelsen.dk/)) structuring data about businesses and processes e.g. [Central Business Register (CVR)](https://datacvr.virk.dk/).
+
+__Senior Architect__ at Netcompany designing and coding parts of the national Vehicle Register (SKAT's motorregister).
+
+__Scientific programmer__ at Wilhelm Johannsen Center for Functional Genomics helping out doctors to discover novel genome features e.g. Mendelian Cytogenetic Network Database.
 
 
 ### Public work
