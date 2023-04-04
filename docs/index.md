@@ -5,23 +5,23 @@ This is my personal homepage. I spend most days in <span class="adr"><span class
 
 This page is a stable online presence and a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
-Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren't.
+Maybe one day, here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitisation that could be, and the reasons why they aren't.
 
 ### Services
-I do short term consultations outside of my everyday work. You can hire me for a few hours of either meetings, teaching or producing things that prints well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availabilty, possible conflict of interests and hourly rates.    
+I do short term consultations outside of my everyday work. You can hire me for a few hours of either meeting, teaching or producing pages that print well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availability, possible conflict of interests and hourly rates.    
 
 ### Currently
 Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Implementing it-governance...  
 
 ### Previously
 
-an incomplete list of past activities
+an incomplete list of past activities:
 
 _Enterprise Architect_ at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
 
-_Chief Advisor_ at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
+_Principal Advisor_ at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
 
-_Lead IT-Architect_ at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
+_Principal IT-Architect_ at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
 
 _IT-Architect_ at National e-Health Authority (now [Danish Health Data Authority](https://sundhedsdatastyrelsen.dk/da/english)) writing up architectural products and laying down standards for communication across sectors.
 
@@ -40,7 +40,7 @@ a list of selected works with contribution
 
 - [Fællesoffentlig referencearkitektur for deling af data og dokumenter (in danish, english resume)](https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter) editor, co-autor and modeling.
 
-- [Concept for Next generation Digital Post](./ngdp.pdf) lead architect.  
+- [Concept for Next generation Digital Post](./ngdp.pdf) architect, co-author.  
 
 - [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
 
@@ -53,4 +53,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update March 8, 2023</small></div>
+<div style="text-align: right" align="right"><small>last update April 4, 2023</small></div>
