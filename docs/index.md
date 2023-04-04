@@ -36,19 +36,19 @@ _Scientific programmer_ at Wilhelm Johannsen Center for Functional Genomics help
 
 a list of selected works with contribution
 
-- [Data-dreven – ikke dræven (in danish)](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
+[Data-dreven – ikke dræven (in danish)](https://logb.dk/mads-hjorth-data-dreven-ikke-draeven/) presentation of a data centric cloud first approach to development of it in the public sector.
 
-- [Fællesoffentlig referencearkitektur for deling af data og dokumenter (in danish, english resume)](https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter) editor, co-autor and modeling.
+[Fællesoffentlig referencearkitektur for deling af data og dokumenter (in danish, english resume)](https://arkitektur.digst.dk/referencearkitekturer/deling-af-data-og-dokumenter/referencearkitektur-deling-af-data-og-dokumenter) editor, co-autor and modeling.
 
-- [Concept for Next generation Digital Post](./ngdp.pdf) architect, co-author.  
+[Concept for Next generation Digital Post](./ngdp.pdf) architect, co-author.  
 
-- [Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
+[Governance of IT Architecture in Public Health (in danish)](https://sundhedsdatastyrelsen.dk/-/media/sds/filer/rammer-og-retningslinjer/referenceaktitektur-og-it-standarder/referencearkitektur/konkretisering-governance-processer.pdf?la=da) editor, co-author and process modelling.
 
-- [Data modeling among non-programmers](https://www.wolframdatasummit.org/2011/attendee/presentations/Hjorth.pdf) invited speaker at Wolfram Data Summit 2011. 
+[Data modeling among non-programmers](https://www.wolframdatasummit.org/2011/attendee/presentations/Hjorth.pdf) invited speaker at Wolfram Data Summit 2011. 
 
-- [Systematic re-examination of carriers of balanced reciprocal translocations: a strategy to search for candidate regions for common and complex diseases](https://rdcu.be/bXFKZ) co-author.
+[Systematic re-examination of carriers of balanced reciprocal translocations: a strategy to search for candidate regions for common and complex diseases](https://rdcu.be/bXFKZ) co-author.
 
-- [An excess of chromosome 1 breakpoints in male infertility](https://rdcu.be/bXFLl) co-author, data-visualisation.
+[An excess of chromosome 1 breakpoints in male infertility](https://rdcu.be/bXFLl) co-author, data-visualisation.
 
 
 
