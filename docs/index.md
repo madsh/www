@@ -5,7 +5,10 @@ This is my personal homepage. I spend most days in <span class="adr"><span class
 
 This page is a stable online presence and a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
-Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren’t.
+Maybe one day here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitization that could be, and the reasons why they aren't.
+
+### Services
+I do short term consultations outside of my everyday work. You can hire me for a few hours of either meetings, teaching or producing things that prints well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availabilty, possible conflict of interests and hourly rates.    
 
 ### Currently
 Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Implementing it-governance...  
