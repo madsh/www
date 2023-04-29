@@ -19,7 +19,7 @@ an incomplete list of past activities:
 
 _Enterprise Architect_ at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
 
-_Principal Advisor_ at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service government cloud.
+_Principal Advisor_ at the [Danish Agency for Digitisation](https://en.digst.dk/). Writing reference architecture for sharing data and documents across government organisations. Concept, governance model, technical design and proof of concept for platform as a service community cloud aka [GovCloud](https://govcloud.dk)
 
 _Principal IT-Architect_ at Danish Agency for Digitisation responsible for scoping and solution design for [Digital Post](https://en.digst.dk/systems/digital-post/). Concept development and business case, public consultation, privacy and security assessments.
 
