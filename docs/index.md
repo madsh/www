@@ -13,6 +13,8 @@ I do short term consultations outside of my everyday work. You can hire me for a
 ### Currently
 Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Implementing it-governance...  
 
+National Expert on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
+
 ### Previously
 
 an incomplete list of past activities:
@@ -53,4 +55,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update April 4, 2023</small></div>
+<div style="text-align: right" align="right"><small>last update May 22, 2023</small></div>
