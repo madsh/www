@@ -11,7 +11,7 @@ Maybe one day, here will be a blog. Possibly called ‘What If...?’ and chroni
 I do short term consultations outside of my everyday work. You can hire me for a few hours of either meeting, teaching or producing pages that print well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availability, possible conflict of interests and hourly rates.    
 
 ### Currently
-_Enterprise Architect_ modernising the application landscape of the [Danish Customs and Tax Administration](https://skat.dk/) at [IT and Development Agency] (https://ufst.dk).
+_Enterprise Architect_ modernising the application landscape of the [Danish Customs and Tax Administration](https://skat.dk/) at [IT and Development Agency](https://ufst.dk).
 
 _National Expert_ on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
 
@@ -55,4 +55,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update Feb 01, 2025</small></div>
+<div style="text-align: right" align="right"><small>last update Feb 1, 2025</small></div>
