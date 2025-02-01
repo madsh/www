@@ -1,9 +1,0 @@
-# What if...?
-
-I could get in the habit of writing a blog post every other week?
-
-For decades I have been scribling in a verious notebooks, resulting in nothing more than a comfy feeling of stashing ideas for future use. Very few have been consistent or lcear enough to be share effectivly. Now would be a good time to align some phases and hope for some constructive inteferens.
-
-Publishing can be done in many ways and with many purposes. I choose to stay clear of likes, logs and laundering commentary.  
-
-Setting a reminder for Wednesdays in even weeks.
