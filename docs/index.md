@@ -13,11 +13,13 @@ I do short term consultations outside of my everyday work. You can hire me for a
 ### Currently
 _Enterprise Architect_ modernising the application landscape of the [Danish Customs and Tax Administration](https://skat.dk/).
 
+_National Expert_ on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
+
 ### Previously
 
 an incomplete list of past activities:
 
-_National Expert_ on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
+
 
 _Enterprise Architect_ at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Primary architect on local implementation of SIS, ETIAS and EES from [eu-LISA](https://www.eulisa.europa.eu/). Primary architect on enterprise-wide logging of security related user actions. 
 
