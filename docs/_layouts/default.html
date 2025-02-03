@@ -27,12 +27,18 @@
       a:hover {
         font-weight: normal;  
       }
+
+      logo:hover {
+        font-weight: bold;  
+      }
+      
+      
     </style>
   </head>
   <body>
     <div class="wrapper h-card vcard">
       <header>
-        <h1 style=":hover{ font-weight: bold }"><a href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
+        <h1 style=":hover{ font-weight: bold }" class="logo"><a href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
