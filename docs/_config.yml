@@ -5,6 +5,6 @@ plugins:
 title: madsh
 description: Personal web presence
 
-site.logo: madsh+.jpg
+site.logo: https://madsh.me/madsh+.jpg
 
 
