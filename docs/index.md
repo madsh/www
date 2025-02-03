@@ -5,7 +5,7 @@ This is my personal homepage. I spend most days in <span class="adr"><span class
 
 This page is a stable online presence and a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
-Maybe one day, here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitisation that could be, and the reasons why they aren't.
+Maybe one day, here will be a blog. Possibly called [‘What If...?’](/whatif) and chronic ideas of things in public digitisation that could be, and the reasons why they aren't.
 
 ### Services
 I do short term consultations outside of my everyday work. You can hire me for a few hours of either meeting, teaching or producing pages that print well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availability, possible conflict of interests and hourly rates.    
