@@ -15,7 +15,7 @@ _Enterprise Architect_ modernising the application landscape of the [Danish Cust
 
 _National Expert_ on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
 
-_Independent advisor_ to the European Commission on [Interoperability of European Public Services](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3714) developing the next generation [European Interoperability Framework](https://interoperable-europe.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/european-interoperability-framework-detail).
+_Independent advisor_ to the European Commission on [Interoperability of European Public Services](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3979&fromCallsApplication=true) developing the next generation [European Interoperability Framework](https://interoperable-europe.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/european-interoperability-framework-detail).
 
 ### Previously
 
