@@ -1,4 +1,4 @@
-**What if... I knew if the Digital Post message require my attention?**
+## What if... I knew if the Digital Post message require my attention?
 
 Today, at work, I received a notification on my phone. I got Digital Post.
 
