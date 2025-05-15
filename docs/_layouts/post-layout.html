@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>Personal web presence for Mads Lindegård Hjorth, @madsh</title>
+    <meta name="description" content="A place to find contact information for Mads Lindegård Hjorth, madsh, madsh@me.com">
+    <meta name="keywords" content="madsh, Madsh, Mads Lindegård Hjorth, Mads Hjorth, madsh@me.com, 28180906">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <meta name="twitter:card" content="A place to find contact information for Mads Lindegård Hjorth, madsh">
+    <meta name="twitter:site" content="@madsh">
+    <meta name="twitter:title" content="Personal web presence for MAds Lindegård Hjorth, madsh">
+    <meta name="twitter:description" content="So twitter, you really want your own description?">
+    <meta name="twitter:creator" content="@madsh">
+    <meta property="og:title" content="A place to find contact information for Mads Lindegård Hjorth, madsh" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="http://www.madsh.com" />
+    <meta property="og:image" content="http://www.madsh.com/madsh.png" />
+    <meta property="og:description" content="So, you really want your own description?" /> 
+    <meta property="og:site_name" content="madsh" />
+    <style>
+      a:hover {
+        font-weight: normal;  
+      }
+
+      .logo:hover {
+        font-weight: bold;  
+      }
+      
+      
+    </style>
+  </head>
+  <body>
+    <div class="wrapper h-card vcard">
+      <header>
+        <h1><a class="logo" href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+
+        {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+        {% endif %}
+
+        <img src="https://www.madsh.me/madsh+.jpg" alt="Mads plus two smiling sons" />
+
+        
+       
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+      <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://google.com/article"
+  },
+  "headline": "Web presence for Mads Lindegård Hjorth, madsh",
+  "image": [
+    "http://www.madsh.me/madsh+.jpg"
+   ],
+  "datePublished": "2010-01-01T08:00:00+08:00",
+  "dateModified": "2019-11-25T09:20:00+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "madsh",
+    "url" : "http://www.madsh.me"    
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "madsh",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.madsh.me/madsh+.jpg"
+    }
+  },
+  "description": "What you will find if you google madsh"
+}
+</script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "QAPage",
+      "mainEntity": {
+        "@type": "Question",
+        "name": "How do I contact Mads Lindegård Hjorth?",
+        "text": "I am trying to get a hold of Mads. What would be the best way to contact him?",
+        "answerCount": 1,
+        "upvoteCount": 100,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Try madsh@me.com",
+          "upvoteCount": 1337,
+          "url": "http://madsh.me/#answer"
+          }        
+      }
+    }
+    </script>    
+    
+    
+  </body>
+</html>
