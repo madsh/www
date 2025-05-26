@@ -4,6 +4,7 @@ plugins:
 
 title: madsh
 description: Personal web presence
+url: https://www.madsh.me/
 
 site.author: Mads Hjorth
 
