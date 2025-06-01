@@ -8,7 +8,7 @@ The notification told me the message was from Copenhagen University. I was not e
 
 **What** if the notification have read ‘Invitation to participate in a study about pedestrians and cyclists’?
 
-Part of the design of Danish Digital Post is an elaborate message model. The sender submits one file with structured metadata about the document that is being send. The metadata includes dedicated structures to hold text notifications by SMS or mobil and emails. The original design brief included machine-readable actions like ‘pay ammount’, ‘provide information’, ‘take decision’ and due dates.
+Part of the design of Danish Digital Post is an elaborate message model. The sender submits one file with structured metadata about the document that is being send. The metadata includes dedicated structures to hold text notifications by SMS or mobil and emails. The original design brief included machine-readable actions like ‘pay amount’, ‘provide information’, ‘take decision’ and due dates.
 
 **Why** could I not infer from the notifications if any immediate action was required?
 
@@ -18,7 +18,7 @@ When designing the current version of Digital Post we considered three models:
 
 The public authorities were not ready to give away control of the user interface due to complications in the phone support when providing phone support. 
 
-*Do more*. The 400th anniversary for the royal mail services was approaching. The idea was to provide a public owned digital mail services free to citizens, business and authorites. 
+*Do more*. The 400th anniversary for the royal mail services was approaching. The idea was to provide a public owned digital mail services free to citizens, business and authorities. 
 
 The Agency for Digitisation was not interested in the burden of deciding when business and citizens abused the free service. 
 

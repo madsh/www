@@ -1,4 +1,6 @@
-# there was no IT department
+# No IT?
+
+
 (in a public agency)
 
 Nikon Df and Bianchi Matta - two conflicting technologies in a frankenstein transition.

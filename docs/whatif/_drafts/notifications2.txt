@@ -1,0 +1,4 @@
+## What if errors in public infrastructure code were founded and fixed?
+
+I got another notification[], but this time I found a bug and did not report it. 
+
