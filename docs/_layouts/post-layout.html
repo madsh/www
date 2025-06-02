@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <title>A blog by Mads Lindegård Hjorth, @madsh</title>
+    <meta name="description" content="What If...? Things in public digitisation that could be, and the reasons why they aren't.">
+    <meta name="robots" content="index, follow">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <style>
+      a:hover {
+        font-weight: normal;  
+      }
+
+      .logo:hover {
+        font-weight: bold;  
+      }
+      
+      
+    </style>
+  </head>
+  <body>
+    <div class="wrapper h-card vcard">
+      <header>
+        <h1><a class="logo" href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
+        <p><small>Ideas about things in public digitisation that could be, and personal guesses why they aren’t.</small></p>
+       
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+
+    
+    
+  </body>
+</html>

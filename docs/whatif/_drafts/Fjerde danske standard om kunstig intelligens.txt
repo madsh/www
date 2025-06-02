@@ -1,0 +1,11 @@
+# Fjerde danske standard om kunstig intelligens
+- a standard for everyone explaining the requirements from the European AI Act - especially ’sufficient level of AI literacy’
+
+* focus also on the context the AI system are to be used in. 
+
+Model: map, set goal, implement, evaluate
+
+## Suggestions
+[] Change roles to provider?, management, employees 
+
+? Who will consider societal impact?

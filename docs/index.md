@@ -5,13 +5,17 @@ This is my personal homepage. I spend most days in <span class="adr"><span class
 
 This page is a stable online presence and a point of contact. The email I read most often is <span class="u-email">madsh@me.com</span>.
 
-Maybe one day, here will be a blog. Possibly called ‘What If...?’ and chronic ideas of things in public digitisation that could be, and the reasons why they aren't.
+Maybe one day, here will be a blog. Possibly called [‘What If...?’](/whatif) and chronic ideas of things in public digitisation that could be, and the reasons why they aren't.
 
 ### Services
 I do short term consultations outside of my everyday work. You can hire me for a few hours of either meeting, teaching or producing pages that print well. Contact me at <a href="mailto:madsh+work@me.com?subject=Request%20for%20service">madsh+work@me.com</a> for availability, possible conflict of interests and hourly rates.    
 
 ### Currently
-Enterprise Architect at [Danish Ministry of Integration and Immigration](https://www.uim.dk). Implementing it-governance...  
+_Enterprise Architect_ modernising the application landscape of the [Danish Customs and Tax Administration](https://skat.dk/) at [IT and Development Agency](https://ufst.dk).
+
+_National Expert_ on Artificial Intelligence at [Danish Standard](https://udvalg.ds.dk/DS_S-855/committees). Taking part in developing [international](https://www.iso.org/committee/6794475.html) and [european](https://www.cencenelec.eu/areas-of-work/cen-cenelec-topics/artificial-intelligence/) standards and technical specifications. 
+
+_Independent advisor_ to the European Commission on [Interoperability of European Public Services](https://ec.europa.eu/transparency/expert-groups-register/screen/expert-groups/consult?lang=en&groupID=3979&fromCallsApplication=true) developing the next generation [European Interoperability Framework](https://interoperable-europe.ec.europa.eu/collection/nifo-national-interoperability-framework-observatory/european-interoperability-framework-detail).
 
 ### Previously
 
@@ -53,4 +57,4 @@ a list of selected works with contribution
 
 
 
-<div style="text-align: right" align="right"><small>last update April 4, 2023</small></div>
+<div style="text-align: right" align="right"><small>last update Feb 1, 2025</small></div>

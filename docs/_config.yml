@@ -1,2 +1,11 @@
-theme: jekyll-theme-minimal
-site.logo: madsh+.jpg
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: madsh
+description: Personal web presence
+url: https://www.madsh.me/
+
+site.author: Mads Hjorth
+
+

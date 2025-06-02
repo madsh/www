@@ -27,18 +27,18 @@
       a:hover {
         font-weight: normal;  
       }
+
+      .logo:hover {
+        font-weight: bold;  
+      }
+      
+      
     </style>
   </head>
   <body>
     <div class="wrapper h-card vcard">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-
-
+        <h1><a class="logo" href="{{ "/" | absolute_url }}"> <span class="nickname">madsh</span></a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
 
@@ -46,16 +46,10 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
-        <img src="madsh+.jpg" alt="Mads plus two smiling sons" />
+        <img src="https://www.madsh.me/madsh.jpg" alt="Mads Hjorth smiling on a spring day in Copenhagen" />
 
         
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
+       
       </header>
       <section>
 
